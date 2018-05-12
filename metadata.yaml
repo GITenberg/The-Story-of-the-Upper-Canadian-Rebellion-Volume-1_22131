@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2255
     wikipedia: http://en.wikipedia.org/wiki/John_Charles_Dent
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22131#The-Story-of-the-Upper-Canadian-Rebellion-Volume-1
 gutenberg_bookshelf: Canada
 gutenberg_issued: '2007-07-24'
 gutenberg_type: Text
